@@ -1,0 +1,7 @@
+# Project Flexo
+
+For Project Flexo Bringup reference from this commit.
+
+```
+https://github.com/yusufnoor786/device_xiaomi_sakura/commit/aadb4621de0a74b1897d11fed45741877460257e
+```
