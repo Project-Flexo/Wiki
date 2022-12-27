@@ -1,5 +1,0 @@
-# Changelog
-
-  # 2.0 Reboot 
-
- - November Security Patch
