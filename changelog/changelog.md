@@ -1,5 +1,19 @@
 # Changelog
 
+  # V2.2 (18.01.2023) Winter !
+
+  - January Security Patch
+  - Source is merge with latest PE+
+  - New UI (Thanks To BananaDroid)
+  - Added Reticker 
+  - Added Pocket Mode 
+  - Re-Added Brightness Slider 
+  - Re-Added UDFPS settings
+  - Added Status Bar Colour Icon 
+  - And Many More We'll Add .
+
+---------------------------------------
+
   # V2.0 (27.12.2022) Reboot !
 
   - November Security Patch
